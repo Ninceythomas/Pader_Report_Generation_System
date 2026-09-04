@@ -1,0 +1,493 @@
+{
+  "narrative_summary": {
+    "section": "Narrative Summary and Analysis",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "total_cases": 1024,
+      "serious_cases": 1023,
+      "serious_pct": 99.9,
+      "non_serious_cases": 1,
+      "non_serious_pct": 0.1,
+      "top_3_reactions_overall": [
+        {
+          "reaction": "Acute kidney injury",
+          "count": 80
+        },
+        {
+          "reaction": "Drug ineffective",
+          "count": 54
+        },
+        {
+          "reaction": "Hypotension",
+          "count": 46
+        }
+      ],
+      "top_3_reactions_serious": [
+        {
+          "reaction": "Acute kidney injury",
+          "count": 80
+        },
+        {
+          "reaction": "Drug ineffective",
+          "count": 53
+        },
+        {
+          "reaction": "Hypotension",
+          "count": 46
+        }
+      ],
+      "top_3_countries": {
+        "Eu": 344,
+        "United Kingdom": 281,
+        "France": 185
+      },
+      "sex_breakdown": {
+        "Female": 503,
+        "Male": 493,
+        "Unknown": 28
+      },
+      "alert_case_count": 1023,
+      "data_quality_note": "83 of 1024 cases have no recorded age; 28 have no recorded sex."
+    },
+    "instructions": "Summarize ONLY the figures above, in plain regulatory prose. Do not state or imply a safety conclusion (e.g. 'no concerns identified', 'the product is safe') that is not explicitly present in the figures. Do not invent a causal relationship between the product and any reaction. Neutral, factual tone. 2-4 short paragraphs."
+  },
+  "summary_analysis_of_cases": {
+    "section": "Summary Analysis of Cases",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "case_volume": {
+        "total_cases": 1024,
+        "serious_cases": 1023,
+        "serious_pct": 99.9,
+        "non_serious_cases": 1,
+        "non_serious_pct": 0.1
+      },
+      "by_age_group": {
+        "Elderly (65+yr)": 674,
+        "Adult (18-64yr)": 248,
+        "Unknown": 86,
+        "Adolescent (12-17yr)": 6,
+        "Infant (28 days-2yr)": 5,
+        "Child (2-11yr)": 4,
+        "Neonate (<28 days)": 1
+      },
+      "by_sex": {
+        "Female": 503,
+        "Male": 493,
+        "Unknown": 28
+      },
+      "by_country_top5": {
+        "Eu": 344,
+        "United Kingdom": 281,
+        "France": 185,
+        "Canada": 56,
+        "Italy": 51
+      },
+      "outcome_counts": {
+        "recovered/resolved": 1280,
+        "unknown": 1039,
+        "not recovered/not resolved/ongoing": 536,
+        "recovering/resolving": 406,
+        "fatal": 134,
+        "recovered/resolved with sequelae": 34
+      }
+    },
+    "instructions": "Present the case-volume and demographic breakdown as factual statements with exact figures. Do not average, estimate, or recompute any number -- use the values given exactly as provided. Note any data gaps (e.g. 'Unknown' age/sex counts) plainly rather than omitting them. Neutral tone, short paragraphs or a brief bulleted summary."
+  },
+  "reaction_analysis": {
+    "section": "Reaction / Adverse Event Analysis",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "top_reactions_overall": [
+        {
+          "reaction": "Acute kidney injury",
+          "count": 80
+        },
+        {
+          "reaction": "Drug ineffective",
+          "count": 54
+        },
+        {
+          "reaction": "Hypotension",
+          "count": 46
+        },
+        {
+          "reaction": "Drug interaction",
+          "count": 43
+        },
+        {
+          "reaction": "Dyspnoea",
+          "count": 38
+        },
+        {
+          "reaction": "Bradycardia",
+          "count": 37
+        },
+        {
+          "reaction": "Dizziness",
+          "count": 36
+        },
+        {
+          "reaction": "Fatigue",
+          "count": 33
+        },
+        {
+          "reaction": "Off label use",
+          "count": 31
+        },
+        {
+          "reaction": "Fall",
+          "count": 30
+        }
+      ],
+      "top_reactions_serious": [
+        {
+          "reaction": "Acute kidney injury",
+          "count": 80
+        },
+        {
+          "reaction": "Drug ineffective",
+          "count": 53
+        },
+        {
+          "reaction": "Hypotension",
+          "count": 46
+        },
+        {
+          "reaction": "Drug interaction",
+          "count": 43
+        },
+        {
+          "reaction": "Dyspnoea",
+          "count": 38
+        },
+        {
+          "reaction": "Bradycardia",
+          "count": 37
+        },
+        {
+          "reaction": "Dizziness",
+          "count": 36
+        },
+        {
+          "reaction": "Fatigue",
+          "count": 33
+        },
+        {
+          "reaction": "Off label use",
+          "count": 31
+        },
+        {
+          "reaction": "Fall",
+          "count": 30
+        }
+      ],
+      "unique_reaction_terms": 1122,
+      "total_reaction_mentions": 3429,
+      "top_reactions_by_sex": [
+        {
+          "sex_clean": "Male",
+          "reaction_pt": "Acute kidney injury",
+          "count": 45
+        },
+        {
+          "sex_clean": "Female",
+          "reaction_pt": "Acute kidney injury",
+          "count": 32
+        },
+        {
+          "sex_clean": "Female",
+          "reaction_pt": "Dizziness",
+          "count": 27
+        },
+        {
+          "sex_clean": "Male",
+          "reaction_pt": "Drug ineffective",
+          "count": 27
+        },
+        {
+          "sex_clean": "Female",
+          "reaction_pt": "Drug ineffective",
+          "count": 26
+        },
+        {
+          "sex_clean": "Male",
+          "reaction_pt": "Dyspnoea",
+          "count": 22
+        },
+        {
+          "sex_clean": "Unknown",
+          "reaction_pt": "Acute kidney injury",
+          "count": 3
+        },
+        {
+          "sex_clean": "Unknown",
+          "reaction_pt": "Dyspnoea",
+          "count": 2
+        },
+        {
+          "sex_clean": "Unknown",
+          "reaction_pt": "Hypotension",
+          "count": 2
+        }
+      ],
+      "top_reactions_by_age_group": [
+        {
+          "age_group": "Elderly (65+yr)",
+          "reaction_pt": "Acute kidney injury",
+          "count": 62
+        },
+        {
+          "age_group": "Elderly (65+yr)",
+          "reaction_pt": "Hypotension",
+          "count": 35
+        },
+        {
+          "age_group": "Elderly (65+yr)",
+          "reaction_pt": "Drug interaction",
+          "count": 29
+        },
+        {
+          "age_group": "Adult (18-64yr)",
+          "reaction_pt": "Drug ineffective",
+          "count": 25
+        },
+        {
+          "age_group": "Adult (18-64yr)",
+          "reaction_pt": "Acute kidney injury",
+          "count": 17
+        },
+        {
+          "age_group": "Adult (18-64yr)",
+          "reaction_pt": "Off label use",
+          "count": 15
+        },
+        {
+          "age_group": "Unknown",
+          "reaction_pt": "Maternal exposure during pregnancy",
+          "count": 10
+        },
+        {
+          "age_group": "Unknown",
+          "reaction_pt": "Foetal growth restriction",
+          "count": 7
+        },
+        {
+          "age_group": "Unknown",
+          "reaction_pt": "Medication error",
+          "count": 6
+        },
+        {
+          "age_group": "Adolescent (12-17yr)",
+          "reaction_pt": "Drug ineffective",
+          "count": 4
+        },
+        {
+          "age_group": "Infant (28 days-2yr)",
+          "reaction_pt": "Premature baby",
+          "count": 4
+        },
+        {
+          "age_group": "Infant (28 days-2yr)",
+          "reaction_pt": "Foetal growth restriction",
+          "count": 3
+        },
+        {
+          "age_group": "Infant (28 days-2yr)",
+          "reaction_pt": "Maternal exposure during pregnancy",
+          "count": 3
+        },
+        {
+          "age_group": "Child (2-11yr)",
+          "reaction_pt": "Myocardial injury",
+          "count": 2
+        },
+        {
+          "age_group": "Child (2-11yr)",
+          "reaction_pt": "Off label use",
+          "count": 2
+        },
+        {
+          "age_group": "Child (2-11yr)",
+          "reaction_pt": "Bone metabolism disorder",
+          "count": 2
+        },
+        {
+          "age_group": "Adolescent (12-17yr)",
+          "reaction_pt": "Atrial fibrillation",
+          "count": 1
+        },
+        {
+          "age_group": "Adolescent (12-17yr)",
+          "reaction_pt": "Intentional product use issue",
+          "count": 1
+        },
+        {
+          "age_group": "Neonate (<28 days)",
+          "reaction_pt": "Maternal exposure during pregnancy",
+          "count": 1
+        },
+        {
+          "age_group": "Neonate (<28 days)",
+          "reaction_pt": "Poland^s syndrome",
+          "count": 1
+        }
+      ],
+      "soc_availability_note": "No System Organ Class field exists in the source data. Analysis is reported at the MedDRA Preferred Term level only."
+    },
+    "instructions": "Summarize the reaction frequency data given. Explicitly state that System Organ Class grouping is not available in the source data (do not invent SOC categories). Report reaction counts as observed frequencies only -- do not characterize any reaction as expected, unexpected, or drug-related, since expectedness/causality data was not supplied for this exercise. Neutral tone, 2-3 short paragraphs."
+  },
+  "serious_cases_alert": {
+    "section": "Serious Cases / 15-Day Alerts",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "total_alert_cases": 1023,
+      "alert_pct_of_total": 99.9,
+      "fatal_alert_cases": 68,
+      "top_reactions_in_alert_cases": [
+        {
+          "reaction": "Acute kidney injury",
+          "count": 80
+        },
+        {
+          "reaction": "Drug ineffective",
+          "count": 53
+        },
+        {
+          "reaction": "Hypotension",
+          "count": 46
+        },
+        {
+          "reaction": "Drug interaction",
+          "count": 43
+        },
+        {
+          "reaction": "Dyspnoea",
+          "count": 38
+        }
+      ],
+      "seriousness_criteria_breakdown": {
+        "Death": 68,
+        "Life-threatening": 105,
+        "Hospitalization": 482,
+        "Disabling": 44,
+        "Congenital anomaly": 7,
+        "Other medically important": 905
+      },
+      "sample_case_ids": [
+        24780403,
+        24780599,
+        24780680,
+        24784771,
+        24784845,
+        24784920,
+        24784985,
+        24784989,
+        24787006,
+        24787240
+      ]
+    },
+    "instructions": "Summarize the 15-day Alert case figures given. Note that seriousness criteria are independent (yes/no) flags and are not mutually exclusive -- a single case may meet more than one criterion, so the criteria counts will not sum to the total case count. Do not invent case narratives; only reference the case IDs and counts provided. Neutral, factual tone."
+  },
+  "trends": {
+    "section": "Trends and Important Observations",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "monthly_case_counts": {
+        "2024-12": 21,
+        "2025-01": 75,
+        "2025-02": 94,
+        "2025-03": 83,
+        "2025-04": 78,
+        "2025-05": 80,
+        "2025-06": 84,
+        "2025-07": 109,
+        "2025-08": 64,
+        "2025-09": 76,
+        "2025-10": 102,
+        "2025-11": 75,
+        "2025-12": 83
+      },
+      "monthly_serious_counts": {
+        "2024-12": 21,
+        "2025-01": 75,
+        "2025-02": 94,
+        "2025-03": 83,
+        "2025-04": 78,
+        "2025-05": 80,
+        "2025-06": 84,
+        "2025-07": 108,
+        "2025-08": 64,
+        "2025-09": 76,
+        "2025-10": 102,
+        "2025-11": 75,
+        "2025-12": 83
+      },
+      "min_month_count": 21,
+      "max_month_count": 109,
+      "top_reaction_movers_first_vs_second_half": [
+        {
+          "reaction": "Acute kidney injury",
+          "first_half_count": 48,
+          "second_half_count": 32
+        },
+        {
+          "reaction": "Drug ineffective",
+          "first_half_count": 25,
+          "second_half_count": 29
+        },
+        {
+          "reaction": "Hypotension",
+          "first_half_count": 21,
+          "second_half_count": 25
+        }
+      ],
+      "split_date": "2025-06-27"
+    },
+    "instructions": "Describe observable numerical patterns only (e.g. 'cases rose from X in month A to Y in month B'). Do NOT characterize any pattern as a confirmed safety signal, a trend requiring action, or a cause-effect relationship. End by noting these observations are provided for qualified human reviewer assessment, not as concluded findings. Neutral tone, short paragraphs."
+  },
+  "history_of_actions": {
+    "section": "History of Actions",
+    "reporting_period": {
+      "product": "Bisoprolol",
+      "application_number": "B-1",
+      "report_type": "PADER (simplified, exercise version)",
+      "period_start": "2024-12-27",
+      "period_end": "2025-12-26"
+    },
+    "approved_analysis_results": {
+      "actions_data_supplied": false
+    },
+    "instructions": "State plainly and only that no history-of-actions data (e.g. labeling changes, regulatory communications, safety studies) was supplied for this reporting period. Do not invent, assume, or imply any specific action took place. One or two sentences."
+  }
+}
